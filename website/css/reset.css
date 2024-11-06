@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --text: #1D484E;
+    --accent: #EB7149;
+}
